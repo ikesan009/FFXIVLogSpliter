@@ -21,8 +21,12 @@ echo ### 最新のログをアーカイブしています．．．
 dir /b /o-d "%ffxivlogdir%\Network_?????_????????.log" > %loglist%
 set /P latestlog=<%loglist%
 dir /b /o-d "%ffxivlogdir%\%latestlog:~0,-4%_#*" > %loglist%
+
 set /P currentlognum=<%loglist%
 set /a latestlognum=%currentlognum:~24,-4% + 1
+if %latestlognum% lss 0 (
+  set /a latestlognum=1
+)
 copy "%ffxivlogdir%\%latestlog%" "%ffxivlogdir%\%latestlog:~0,-4%_#%latestlognum%.log"
 echo. > "%ffxivlogdir%\%latestlog%"
 
