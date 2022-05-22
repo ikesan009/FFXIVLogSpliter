@@ -12,7 +12,7 @@
 
 # Usage (利用方法)
 1. zipファイルをダウンロードし、任意の場所に格納します。
-* [**FFXIVLogSpliter-1.0.0.zip**](https://github.com/ikesan009/FFXIVLogSpliter/archive/refs/tags/1.0.1.zip)
+* [**FFXIVLogSpliter-1.0.1.zip**](https://github.com/ikesan009/FFXIVLogSpliter/archive/refs/tags/1.0.1.zip)
 2. 格納したzipファイルを展開します。
 ![image](https://user-images.githubusercontent.com/30005561/169692294-c8ac7111-1ebd-483a-8481-2392bf986de9.png)
 3. 展開したフォルダに含まれる「**settings.txt**」をメモ帳などで開き、以下を**自身の環境に合わせて**編集して上書き保存します。(画像はあくまで例です。)
