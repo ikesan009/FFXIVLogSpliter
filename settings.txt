@@ -1,3 +1,3 @@
-actinstallpath=C:\Users\ikesa\Programs\Games\Final Fantasy XIV\ACTv3\Advanced Combat Tracker.exe
-ffxivlogdir=Z:\Games\FINAL FANTASY XIV - A Realm Reborn\Advanced Combat Tracker\FFXIVLogs
+actinstallpath=
+ffxivlogdir=
 lognum=20
