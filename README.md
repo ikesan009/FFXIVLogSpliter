@@ -4,7 +4,7 @@
 # Processing Flow (処理の流れ)
 1. Advanced Combat Trackerが起動している場合は停止します。
 2. 最新のログファイルをアーカイブします。
-3. 古いログファイルが設定値を超えている場合は、削除します。
+3. ログファイル数が設定値を超えている場合は、古いログから削除します。
 4. Advanced Combat Trackerを再度起動します。
 
 # Requirement (必要動作環境)
