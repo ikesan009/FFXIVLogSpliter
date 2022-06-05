@@ -22,8 +22,7 @@
 ![image](https://user-images.githubusercontent.com/30005561/169692926-75937478-014d-431b-bafe-582d66912996.png)
 4. 「**FFXIVLogSpliter.exe**」を**管理者として実行**します。
 ![image](https://user-images.githubusercontent.com/30005561/169692978-d845499d-534e-4c5a-a9b8-d4cebf88d3a7.png)
-5. ユーザーアカウント制御が出た場合は、「はい」を選択します。
-※Windowsの設定で無効化することもできます。
+5. ユーザーアカウント制御が出た場合は、「はい」を選択します。※Windowsの設定で無効化することもできます。
 ![image](https://user-images.githubusercontent.com/30005561/169693049-2c7d0c72-4f6f-4859-9a83-10426f8fb844.png)
 6. コマンドプロンプトが起動し、自動で処理が行われます。
 「続行するには何かキーを押してください．．．」が表示されたら、任意のキーを入力するか「×」閉じしてください。
